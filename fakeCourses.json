@@ -1,0 +1,37 @@
+{
+  "courses": [
+    {
+      "courseId": 1,
+      "name": "Cryptography",
+      "description": "Learn cryptography to master secrets of passwords, authentication and much more.",
+      "category": "Computer Science",
+      "isActive": true,
+      "createdBy": 1,
+      "createdAt": "2023-10-27T12:19:48.27",
+      "lastUpdatedAt": "2023-10-27T12:19:48.27",
+      "lastUpdatedBy": 1
+    },
+    {
+      "courseId": 2,
+      "name": "Data Structures and Algorithms",
+      "description": "Learn art of building optimized code and much more.",
+      "category": "Computer Science",
+      "isActive": true,
+      "createdBy": 1,
+      "createdAt": "2023-10-27T12:22:08.4",
+      "lastUpdatedAt": "2023-10-27T12:22:08.4",
+      "lastUpdatedBy": 1
+    },
+    {
+      "courseId": 3,
+      "name": "Computer Networks",
+      "description": "Understand about how networks work like WIFI, IP, Mobile and much more.",
+      "category": "Computer Science",
+      "isActive": true,
+      "createdBy": 1,
+      "createdAt": "2023-10-27T12:24:06.983",
+      "lastUpdatedAt": "2023-10-27T12:24:06.983",
+      "lastUpdatedBy": 1
+    }
+  ]
+}
